@@ -20,7 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server": "json-server server.json -w -d 750 -p 3333"
+    "server": "json-server +10.json -10.json -w -d 750 -p 3333"
   },
   "eslintConfig": {
     "extends": [
