@@ -1,9 +1,10 @@
-import './App.css';
+import React from "react";
+import Router from "./Router/index";
 
 function App() {
   return (
     <div>
-      A
+      <Router/>
     </div>
   );
 }
